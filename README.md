@@ -14,7 +14,10 @@ Silhouette_clustering.ipynb:
 Silhouette.py:
  Code for Silhouette scores from sklearn machine learning.
  
-Imputation_comparison_heart : focuses on the comparison of different imputation methods and the explains the rational of doing so. Result also included in file. 
-Visualize+imports : functionality for plotting. 
+Imputation_comparison_heart : focuses on the comparison of different imputation methods and the explains the rational of doing so. Result also included in file.
+
+Visualize+imports : functionality for plotting.
+
 Kmeans : K means clustering of samples based on different sets of features and iteratively checking the best k. 
+
 heart_impute : first trial of imputation process
